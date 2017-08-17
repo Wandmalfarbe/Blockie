@@ -2,6 +2,8 @@
 
 # Blockie
 
+[![LÖVE 0.10.2](https://img.shields.io/badge/L%C3%96VE-0.10.2-EA316E.svg)](http://love2d.org/)
+
 An unfinished game written in Lua made with the [LÖVE 2D game engine](https://love2d.org/).
 
 ![Blockie](img/screenshot.png)
