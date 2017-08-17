@@ -1,3 +1,5 @@
+<img src="icon.png" align="right" height="110"/>
+
 # Blockie
 
 An unfinished game written in Lua made with the [LÖVE 2D game engine](https://love2d.org/).
